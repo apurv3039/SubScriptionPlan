@@ -5,4 +5,4 @@ Features:<br>
 1) Subscription layout design.<br>
 2) Braintree Payment method implementation.
 
-![example](screenshot.png)
+![example](Screenshot_20161007-125323.png)
